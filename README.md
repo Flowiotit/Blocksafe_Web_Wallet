@@ -1,8 +1,8 @@
-#Blocksafe - A crypto wallet for using the blockchain.
+# Blocksafe - A crypto wallet for using the blockchain.
 
 A feature-rich, user-friendly cryptocurrency web wallet supporting multiple blockchain networks, including Ethereum, Binance Smart Chain, Polygon. Designed to provide an intuitive and secure interface for managing your crypto assets across different networks.
 
-#Key Features:
+# Key Features:
 
 - Support for multiple blockchain networks: Seamlessly switch between Ethereum, Binance Smart Chain, Polygon networks.
 
@@ -18,6 +18,6 @@ A feature-rich, user-friendly cryptocurrency web wallet supporting multiple bloc
 
 Get started with Blocksafe Web Wallet today and experience a unified and straightforward way to manage your cryptocurrency investments across various networks.
 
-#Quickstart: in the project directory, you can run:
+# Quickstart: in the project directory, you can run:
 
  `npm start`
