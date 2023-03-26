@@ -18,6 +18,8 @@ A feature-rich, user-friendly cryptocurrency web wallet supporting multiple bloc
 
 Get started with Blocksafe Web Wallet today and experience a unified and straightforward way to manage your cryptocurrency investments across various networks.
 
-# Quickstart: in the project directory, you can run:
+# Quickstart
+
+In the project directory, you can run:
 
  `npm start`
